@@ -1,0 +1,95 @@
+data = {
+  "men" : [
+    {
+      "title" : "Primeknit Wool Tee",
+      "category" : "Men Running",
+      "price" : 350,
+      "about" : "This running t-shirt is made of a wool-blend knit that's soft, breathable and wicks moisture for ultimate comfort. The tee has a seamless construction that minimises chafing. Moisture management Climalite wicks sweat to keep you dry in every condition Stay fresh Anti-odour fabric with Polygiene technology for a fresh feel All-around reflectivity 360 degrees of reflectivity helps you be seen",
+      "previews" : [
+        "https://shop.adidas.ae/media/catalog/product/cache/0/image/500x/9df78eab33525d08d6e5fb8d27136e95/C/X/CX2870-1.jpg",
+        "https://shop.adidas.ae/media/catalog/product/cache/0/image/500x/9df78eab33525d08d6e5fb8d27136e95/C/X/CX2870-2.jpg",
+        "https://shop.adidas.ae/media/catalog/product/cache/0/image/500x/9df78eab33525d08d6e5fb8d27136e95/C/X/CX2870-4.jpg",
+        "https://shop.adidas.ae/media/catalog/product/cache/0/image/500x/9df78eab33525d08d6e5fb8d27136e95/C/X/CX2870-10.jpg",
+      ],
+      "lastUpdate" : 2,
+      "colors" : ["BLACK"]
+    },
+
+    {
+      "title" : "Nizza Shoes",
+      "category" : "MEN SHOES",
+      "price" : 325,
+      "about" : "An '80s-era basketball style, the Nizza offers a lightweight textile alternative to traditional leather designs. These shoes have a relaxed low-top look. They're made with canvas inside and out for breathable comfort.",
+      "previews" : [
+        "https://shop.adidas.ae/media/catalog/product/cache/0/image/500x/9df78eab33525d08d6e5fb8d27136e95/A/Q/AQ1066-1.jpg",
+        "https://shop.adidas.ae/media/catalog/product/cache/0/image/500x/9df78eab33525d08d6e5fb8d27136e95/A/Q/AQ1066-12.jpg",
+        "https://shop.adidas.ae/media/catalog/product/cache/0/image/500x/9df78eab33525d08d6e5fb8d27136e95/A/Q/AQ1066-3.jpg",
+        "https://shop.adidas.ae/media/catalog/product/cache/0/image/500x/9df78eab33525d08d6e5fb8d27136e95/A/Q/AQ1066-21.jpg",
+      ],
+      "lastUpdate" : 2,
+      "colors" : ["FTWR WHITE","CORE BLACK", "CRYSTAL WHITE"]
+    },
+
+    {
+      "title" : "REAL H JSY AU",
+      "category" : "MEN FOOTBALL",
+      "price" : 550,
+      "about" : "The 1950s saw Real Madrid sweep the continent in an all-white kit showing only a club crest. This home jersey pays tribute to the daringly simple designs of decades past. It's a few shades darker than the vintage version. Made with slim-fitting, cooling fabric to stay equipped for the modern game. Lightweight and breathable Climachill keeps you super cool and dry in the hottest weather Authentic fit An authentic jersey is a one-to-one version of what players wear and is slim through the shoulders and body",
+      "previews" : [
+        "https://shop.adidas.ae/media/catalog/product/cache/0/image/500x/9df78eab33525d08d6e5fb8d27136e95/C/G/CG0561-10.jpg",
+        "https://shop.adidas.ae/media/catalog/product/cache/0/image/500x/9df78eab33525d08d6e5fb8d27136e95/C/G/CG0561-11.jpg",
+        "https://shop.adidas.ae/media/catalog/product/cache/0/image/500x/9df78eab33525d08d6e5fb8d27136e95/C/G/CG0561-15.jpg",
+        "https://shop.adidas.ae/media/catalog/product/cache/0/image/500x/9df78eab33525d08d6e5fb8d27136e95/C/G/CG0561-5.jpg",
+      ],
+      "lastUpdate" : 2,
+      "colors" : ["FTWR WHITE","CORE BLACK", "CRYSTAL WHITE"]
+    }
+  ],
+
+  "women" : [
+    {
+      "title" : "Nike Medalist",
+      "category" : "Women's Running",
+      "price" : 495,
+      "about" : "The Nike Medalist Women's Short-Sleeve Running Top delivers an ultra-lightweight, quick-drying experience to help keep you comfortable from start to finish. Its gradient design showcases the textured sweat-wicking fabric, while the soft feel makes it perfect for everything from your training runs to your days off.",
+      "previews" : [
+        "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/oplwmaw8bgzclepzyooe/medalist-short-sleeve-running-top-5VDsww.jpg",
+        "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/ydzu2w2i651pg7xszr1f/medalist-short-sleeve-running-top-5VDsww.jpg",
+        "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/oyme7mugnwtkhyv1izkk/medalist-short-sleeve-running-top-5VDsww.jpg",
+        "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/cbkbmc43gnp80x4dset7/medalist-short-sleeve-running-top-5VDsww.jpg"
+      ],
+      "lastUpdate" : 2,
+      "colors" : ["Gunsmoke/Black"]
+    },
+
+    {
+      "title" : "Nike Epic React Flyknit",
+      "category" : "Women's Shoes",
+      "price" : 399,
+      "about" : "The Nike Epic React Flyknit Women's Running Shoe provides crazy comfort that lasts as long as you can run. Its Nike React foam cushioning is responsive yet lightweight, durable yet soft. This attraction of opposites creates a sensation that not only enhances the feeling of moving forwards, but makes running feel fun, too.",
+      "previews" : [
+        "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/hbumi0toxfasgiwszcwv/epic-react-flyknit-running-shoe-r8jdh4.jpg",
+        "https://c.static-nike.com/a/videos/t_PDP_864_v1/f_auto,so_1.15/hm2gwrdwzylr6y6phcuq/epic-react-flyknit-running-shoe-r8jdh4.jpg",
+        "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/mo2qptar44fhu0fxx3aw/epic-react-flyknit-running-shoe-r8jdh4.jpg",
+        "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto/txl7ttgk24lathdmwuhu/epic-react-flyknit-running-shoe-r8jdh4.jpg",
+      ],
+      "lastUpdate" : 2,
+      "colors" : ["Black/White/Black"]
+    },
+
+    {
+      "title" : "Nike Sportswear Tech Fleece Windrunner",
+      "category" : "Women's Full-Zip Hoodie",
+      "price" : 255,
+      "about" : "The Nike Sportswear Tech Fleece Windrunner Women's Full-Zip Hoodie is made from lightweight fleece fabric for warm coverage without extra layers.",
+      "previews" : [
+        "https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto/x4oqyxcmgmnutim6aeyh/sportswear-tech-fleece-windrunner-hoodie-Jdlb1q.jpg",
+        "https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto/et5imukpsk5pss8trhxg/sportswear-tech-fleece-windrunner-hoodie-Jdlb1q.jpg",
+        "https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto/g3u6srtcvqflmme7o0nu/sportswear-tech-fleece-windrunner-hoodie-Jdlb1q.jpg",
+        "https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto/va3kll1ngxlymhdct20s/sportswear-tech-fleece-windrunner-hoodie-Jdlb1q.jpg",
+      ],
+      "lastUpdate" : 2,
+      "colors" : ["Black/White", "DarkGray, White"]
+    },
+  ]
+}
