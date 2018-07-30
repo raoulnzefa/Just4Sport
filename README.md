@@ -17,11 +17,14 @@ An online shopping center for sport equipment. developed using Vue.js framework
     <p><code># build for production with minification</code></p>
     <p><code>npm run build</code></p>
   </li>
-## Sreenshots 
-<img src="./screenshots/1.png" alt="just4sport-shot-1" style="max-width: 256px;margin-bottom: 8px"/>
-<img src="./screenshots/2.png" alt="just4sport-shot-2" style="max-width: 256px;margin-bottom: 8px"/>
-<img src="./screenshots/3.png" alt="just4sport-shot-3" style="max-width: 256px;margin-bottom: 8px"/>
-<img src="./screenshots/4.png" alt="just4sport-shot-4" style="max-width: 256px;margin-bottom: 8px"/>
-<img src="./screenshots/5.png" alt="just4sport-shot-5" style="max-width: 256px;margin-bottom: 8px"/>
-<img src="./screenshots/6.png" alt="just4sport-shot-6" style="max-width: 256px;margin-bottom: 8px"/>
-<img src="./screenshots/7.png" alt="just4sport-shot-7" style="max-width: 256px;margin-bottom: 8px"/>
+</ul>
+<h3>Sreenshots</h3>
+<div>
+  <img src="./screenshots/1.png" alt="just4sport-shot-1" style="max-width: 256px;"/>
+  <img src="./screenshots/2.png" alt="just4sport-shot-2" style="max-width: 256px;"/>
+  <img src="./screenshots/3.png" alt="just4sport-shot-3" style="max-width: 256px;"/>
+  <img src="./screenshots/4.png" alt="just4sport-shot-4" style="max-width: 256px;"/>
+  <img src="./screenshots/5.png" alt="just4sport-shot-5" style="max-width: 256px;"/>
+  <img src="./screenshots/6.png" alt="just4sport-shot-6" style="max-width: 256px;"/>
+  <img src="./screenshots/7.png" alt="just4sport-shot-7" style="max-width: 256px;"/>
+</div>
