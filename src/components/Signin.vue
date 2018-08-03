@@ -28,6 +28,10 @@
       <b-form-group class="group col-12">
                     <b-button type="submit" variant="primary">Signin</b-button>
       </b-form-group>
+	  
+	  <b-form-group class="group col-12">
+                    <p>Don't have an account? <router-link to="/signup">Signup</router-link></p>
+      </b-form-group>
 
       <b-form-group class="group col-12">
                     <b-alert show variant="danger" v-if="failed" style="font-family:'Eras ITC Bold'">Incorrect username or password</b-alert>

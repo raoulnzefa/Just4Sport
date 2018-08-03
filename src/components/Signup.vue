@@ -63,6 +63,10 @@
       <b-form-group class="group col-12">
                     <b-button type="submit" variant="primary">Signup</b-button>
       </b-form-group>
+	  
+	  <b-form-group class="group col-12">
+					<p>I have already account? <router-link to="/signin">Signin</router-link></p>
+      </b-form-group>
 
     </b-form>
 
